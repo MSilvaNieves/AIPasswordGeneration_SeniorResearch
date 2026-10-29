@@ -1,6 +1,6 @@
-# PasswordGenerationComparison_SeniorResearch
+# AIPasswordGeneration_SeniorResearch
 
-Password Generation Comparision between Kimi K3 and a PII-Augmented PCFG framework.
+AI Password Generation using Kimi K3 and a PII-Augmented PCFG framework.
 
 # Objective
 
